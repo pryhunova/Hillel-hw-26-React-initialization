@@ -1,0 +1,41 @@
+.App {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.App-header {
+  padding: 5px;
+  background-color: #ceffcd;
+  color: #58cc7f;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.App-container {
+ display: flex;
+ height: 500px;
+}
+
+.App-sidebar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  width: 300px;
+  background-color: #ffd3cd;
+  color: #cc5858;
+  font-weight: bold;
+  font-size: 20px;  
+}
+
+.App-main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;  
+  background-color: #cde1ff;
+  color: #5894cc;
+  font-weight: bold;
+  font-size: 20px;
+}
