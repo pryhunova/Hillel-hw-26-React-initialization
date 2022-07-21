@@ -1,0 +1,11 @@
+.App-sidebar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  width: 300px;
+  background-color: #ffd3cd;
+  color: #cc5858;
+  font-weight: bold;
+  font-size: 20px;
+}

@@ -1,0 +1,10 @@
+.App-main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: #cde1ff;
+  color: #5894cc;
+  font-weight: bold;
+  font-size: 20px;
+}
