@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hillel-hw-26-React-initialization/static/css/main.5a3ed69d.css",
+    "main.js": "/Hillel-hw-26-React-initialization/static/js/main.605bede4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Hillel-hw-26-React-initialization/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Hillel-hw-26-React-initialization/index.html",
+    "main.5a3ed69d.css.map": "/Hillel-hw-26-React-initialization/static/css/main.5a3ed69d.css.map",
+    "main.605bede4.js.map": "/Hillel-hw-26-React-initialization/static/js/main.605bede4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Hillel-hw-26-React-initialization/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a3ed69d.css",
+    "static/js/main.605bede4.js"
+  ]
+}
