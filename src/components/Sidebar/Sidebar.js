@@ -1,9 +1,12 @@
-import "./Sidebar.css";
+import { Component } from "react";
+import "./Sidebar.scss";
 
-export function Sidebar() {
-  return (
-    <div className="App-sidebar">
-      <p>I'm Sidebar</p>
-    </div>
-  );
+export class Sidebar extends Component {
+  render() {
+    return (
+      <div className="App-sidebar">
+        <p>I'm Sidebar</p>
+      </div>
+    );
+  }
 }

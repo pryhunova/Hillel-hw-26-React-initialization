@@ -1,9 +1,12 @@
-import "./MainContainer.css";
+import { Component } from "react";
+import "./MainContainer.scss";
 
-export function MainContainer() {
-  return (
-    <main className="App-main-container">
-      <p>I'm MainContainer</p>
-    </main>
-  );
+export class MainContainer extends Component {
+  render() {
+    return (
+      <main className="App-main-container">
+        <p>I'm MainContainer</p>
+      </main>
+    );
+  }
 }

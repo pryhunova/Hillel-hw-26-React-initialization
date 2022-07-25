@@ -1,9 +1,12 @@
-import "./Header.css";
+import { Component } from "react";
+import "./Header.scss";
 
-export function Header() {
-  return (
-    <header className="App-header">
-      <p>I'm Header</p>
-    </header>
-  );
+export class Header extends Component {
+  render() {
+    return (
+      <header className="App-header">
+        <p>I'm Header</p>
+      </header>
+    );
+  }
 }
